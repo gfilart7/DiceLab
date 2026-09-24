@@ -70,4 +70,13 @@ button:hover {
 button:focus-visible {
   outline: 3px solid #f8fafc;
   outline-offset: 4px;
+#reset-button {
+  background: transparent;
+  color: #cbd5e1;
+  border: 1px solid #64748b;
+}
+
+#reset-button:hover {
+  background: #334155;
+}
 }
